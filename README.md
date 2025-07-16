@@ -44,11 +44,7 @@ This project focuses on interpreting short-term price movements with clear, insi
 4. Refresh the data (`Home → Refresh`).
 5. Select your stocks of interest from the slicer and start analyzing!
 
----
 
-## Example Visuals
-
-*Coming soon:* screenshots or GIFs of the dashboard in action
 
 ---
 
